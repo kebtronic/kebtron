@@ -1,1 +1,1 @@
-This is a git learning experience.
+This is a git learning experience. Indeed it is.
